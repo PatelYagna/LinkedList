@@ -6,8 +6,6 @@ font, back, empty, insert, remove, and even find. Those performed the same opera
 The second part of the assignment was creating an employee class. That created an employee with general infromation. The information included things such as professional vs non-professional, salary,
 hourly wage, health care cotribution, vacation days. 
 
-repl.it link: https://replit.com/@ShadowBurn69/Assignment-2
-
 how to use:
 once you run the program it will give you a list actions you can perform.
 you can choose whichever action want to perfrom. I reccommend building a list of numbers first by just popping front or back mulitple times
